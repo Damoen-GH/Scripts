@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+#System Maintenance Script for Arch
+#----------------------------------
+
 #System & software update
     sudo pacman -Syu
     yay -Syu
